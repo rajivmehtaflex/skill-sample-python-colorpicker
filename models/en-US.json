@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "my color picker",
+            "invocationName": "imagine color picker",
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",

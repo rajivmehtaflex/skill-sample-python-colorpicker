@@ -5,9 +5,9 @@
           "en-US": {
             "summary": "Sample Short Description",
             "examplePhrases": [
-              "Alexa open color picker"
+              "Alexa Image color picker"
             ],
-            "name": "Color Picker",
+            "name": "Make a Color Picker",
             "description": "Sample Full Description"
           }
         },
